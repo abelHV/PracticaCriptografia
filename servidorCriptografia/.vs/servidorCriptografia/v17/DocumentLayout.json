@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\classes\\clwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\classes\\clwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\classes\\clkestrelserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\classes\\clkestrelserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\classes\\clcryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\classes\\clcryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\classes\\clclientconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\classes\\clclientconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorcriptografia\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\servidorcriptografia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\servidorcriptografia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-serveis-processos\\criptografia\\practicacriptografia-alfredabel\\servidorcriptografia\\servidorcriptografia\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E4DCA9-A367-4803-8087-704CD32C85E9}|servidorCriptografia\\servidorCriptografia.csproj|solutionrelative:servidorcriptografia\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClKestrelServer.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClKestrelServer.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\CLASSES\\ClKestrelServer.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClKestrelServer.cs",
+              "RelativeToolTip": "servidorCriptografia\\CLASSES\\ClKestrelServer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwDwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:19:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClCryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClCryptoService.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\CLASSES\\ClCryptoService.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClCryptoService.cs",
+              "RelativeToolTip": "servidorCriptografia\\CLASSES\\ClCryptoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:18:32.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\FrmMain.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\FrmMain.cs",
+              "RelativeToolTip": "servidorCriptografia\\FrmMain.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:16:38.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClWebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClWebSocketHandler.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\CLASSES\\ClWebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClWebSocketHandler.cs",
+              "RelativeToolTip": "servidorCriptografia\\CLASSES\\ClWebSocketHandler.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:19:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "servidorCriptografia.csproj",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\servidorCriptografia.csproj",
+              "RelativeDocumentMoniker": "servidorCriptografia\\servidorCriptografia.csproj",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\servidorCriptografia.csproj",
+              "RelativeToolTip": "servidorCriptografia\\servidorCriptografia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T14:32:44.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\FrmMain.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "servidorCriptografia\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:05:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClClientConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClClientConnection.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\CLASSES\\ClClientConnection.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\CLASSES\\ClClientConnection.cs",
+              "RelativeToolTip": "servidorCriptografia\\CLASSES\\ClClientConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:27:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "servidorCriptografia\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\CRIPTOGRAFIA\\PracticaCriptografia-AlfredAbel\\servidorCriptografia\\servidorCriptografia\\FrmMain.Designer.cs",
+              "RelativeToolTip": "servidorCriptografia\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:22:17.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
